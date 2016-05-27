@@ -1,0 +1,5 @@
+User variable for B58848 PATH C:\Program Files (x86)\GNU Tools ARM Embedded\5.2 2015q4\bin
+http://wiki.freescale.net/display/mcusw/Build+Script
+C:\Program Files (x86)\GNU Tools ARM Embedded\5.2 2015q4
+C:\PROGRA~2\GNUTOO~1\5F17D~1.220
+MINGW\msys\1.0\bin;C:\MINGW\bin
