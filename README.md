@@ -7,3 +7,4 @@ today is 8/1/2016
 add some words in local
 attempt associate local with remote
 association is succeed
+How the git work?
