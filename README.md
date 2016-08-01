@@ -9,3 +9,4 @@ today is 7/29/2016
 today is friday
 ff0869b81194a9fc27ed18929c6c7b361c1e1f88
 Do you know git?
+Yes i know
